@@ -6,8 +6,8 @@
 • Data Preprocessing is done in `data_loader.py`. </br>
 • Model Architecture is present in `model.py`. </br>
 
-**:round_pushpin:Code has been executed in Google Colaboratory.**
-#
+**:round_pushpin:Code has been executed in Google Colaboratory.** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RCg-G5JoDj-dfC-Lx_PhiBm6IDTJij1y#scrollTo=JU3Iy4-naF7U)
+
 
 #
 ### Usage
