@@ -10,7 +10,7 @@ import socket
 
 from ipc import resultServer
 
-conf = Config.from_file('settings/tuned/ts_query-selector_m_m1_24.json')
+conf = Config.from_file('settings/tuned/sparse_attention_24')
 
 print(conf.to_json())
 
