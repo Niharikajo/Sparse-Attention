@@ -10,7 +10,7 @@ import socket
 
 from ipc import resultServer
 
-conf = Config.from_file('settings/tuned/sparse_attention_24')
+conf = Config.from_file('settings/tuned/sparse_attention_24.json')
 
 print(conf.to_json())
 
