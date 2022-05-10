@@ -1,5 +1,5 @@
 {
-  "data": "dataset1",
+  "data": "pouch_cell",
   "seq_len": 96,
   "pred_len": 24,
   "dec_seq_len": 48,
